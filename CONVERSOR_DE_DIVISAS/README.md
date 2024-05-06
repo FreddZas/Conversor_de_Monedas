@@ -1,7 +1,3 @@
-¡Claro! Vamos a crear un README interactivo y atractivo para tu repositorio en GitHub. Aquí tienes un ejemplo:
-
----
-
 # Conversor de Monedas
 
 ¡Bienvenido al Conversor de Monedas! Este es un programa en Java que te permite convertir entre diferentes divisas utilizando la API de Open Exchange Rates.
